@@ -102,7 +102,7 @@ export default function Home() {
 
 <div>
   <h1 className="text-4xl font-bold text-center" >
-    welcome to horror club
+    welcome to hell
   </h1>
 </div>
   );
